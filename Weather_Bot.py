@@ -343,7 +343,7 @@ class WeatherBot:
 {self.colors['YELLOW']}═══════════════════════════════════════════════════════════════════════════════{self.colors['RESET']}
 
 {self.colors['GREEN']}📧 Contact: Koushik4067@gmail.com{self.colors['RESET']}
-{self.colors['GREEN']}📱 Phone: +91-637936152{self.colors['RESET']}
+{self.colors['GREEN']}📱 Phone: +91-{self.colors['RESET']}
 
 {self.colors['PURPLE']}🎯 MISSION STATEMENT:{self.colors['RESET']}
 {self.colors['WHITE']}Motivated and results-driven AI/ML Engineer seeking challenging roles within dynamic 
